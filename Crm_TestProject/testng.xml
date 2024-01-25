@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name ="Crm demo">
+ <test name="Crm_Project">
+<classes>
+	<!--<class name="Crm_Project.Crm_Login"/>-->
+	<!--<class name="Crm_Project.Crm_Whatsapp"/>-->
+	<!--<class name="Crm_Project.Crm_Email"/>-->
+	<!--<class name="Crm_Project.Crm_Profile"/>-->
+	<!--<class name="Crm_Project.Crm_UserProfile"/>-->
+	<class name="Crm_Project.Crm_LeadsProfile"/>
+</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
